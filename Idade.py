@@ -1,0 +1,7 @@
+print("calcula a idade")
+print("informe o ano atual:")
+AnoAtual = int(input())
+print("informe o ano em que você nasceu:")
+AnoNasci = int(input())
+print("\n O ano atual é:", AnoAtual, "\n A sua data de nascimento é:", AnoNasci)
+print("\n Logo, você tem:", AnoAtual - AnoNasci, "anos.")
